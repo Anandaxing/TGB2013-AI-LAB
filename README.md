@@ -14,3 +14,19 @@ Initialized files for :
 - README.md
 - requirements.txt
 ```
+## 2. Wednesday 30 September 2026
+
+### 2.1 Setup BFS, DFS, and UCS algorithm for flight routes
+
+```bash
+# Added new files 
+utils/__init.py
+utils/core.py
+utils/openflights/py
+utils/plotting.py
+utils/test_search.py
+lab01_search_foundations.py
+
+# CSVs data
+assets/
+```
