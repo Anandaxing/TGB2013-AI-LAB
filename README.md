@@ -3,6 +3,18 @@
 ![Static Badge](https://img.shields.io/badge/Name-Ananda_Adiputra-blue?logo=github&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ID-24006462-green?style=for-the-badge)
 
+### Using .venv folder to install dependencies
+
+```bash
+# MacOS, activation
+source .venv/bin/activate
+
+# Reults: (.venv)
+
+# Deactivate
+deactivate
+```
+
 ## 1. Wednesday 23 September 2026
 
 ### 1.1. First commit 
@@ -29,4 +41,14 @@ lab01_search_foundations.py
 
 # CSVs data
 assets/
+```
+
+## 3. Wednesday 14 October 2026
+
+### 3.1 Added lab02 and lab03 files
+
+```bash
+# Added new files 
+lab02_informed_search.py
+lab03_search_engineering.py
 ```
