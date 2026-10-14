@@ -52,3 +52,7 @@ assets/
 lab02_informed_search.py
 lab03_search_engineering.py
 ```
+
+--- 
+
+_Universiti Teknologi PETRONAS 2026_
