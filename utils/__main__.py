@@ -9,8 +9,7 @@ from pathlib import Path
 
 from . import astar, bfs, dfs, gbfs, haversine_km, load_openflights, ucs
 
-DATASETS = Path(__file__).resolve().parents[2] / "all_datasets"
-
+DATASETS = Path(__file__).resolve().parents[1] / "assets"
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Search the OpenFlights route graph.")

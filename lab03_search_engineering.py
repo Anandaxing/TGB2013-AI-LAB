@@ -20,11 +20,12 @@ pd.set_option("display.width", 200)                # show every column in the te
 pd.set_option("display.max_columns", None)
 
 HERE = Path(__file__).resolve().parent             # the all_experiments folder
-ROOT = HERE.parent                                 # the AI course folder
-DATA = ROOT / "all_datasets"
+ROOT = HERE.parent / "AI-lab-1"                                # the AI course folder
+DATA = ROOT / "assets"
 RESULTS = ROOT / "results" / "lab03"
 RESULTS.mkdir(parents=True, exist_ok=True)
 
+print("THIS IS THE PATH: ", DATA)
 
 # ---------------------------------------------------------------------------
 # Question 1 — Standardise the interface
@@ -87,7 +88,7 @@ assert cli.returncode == 0, cli.stderr
 # ---------------------------------------------------------------------------
 print("\n=== Question 5: Benchmark BFS, UCS, GBFS and A* on ten queries ===")
 _, _, coords, graph, _ = load_openflights(DATA / "lab01-03_airports.csv", DATA / "lab01-03_routes.csv")
-queries = pd.read_csv(HERE / "utils" / "search_queries.csv")      # all ten queries this time
+queries = pd.read_csv(HERE / "assets" / "search_queries.csv")      # all ten queries this time
 
 
 def heuristic_to(goal):
