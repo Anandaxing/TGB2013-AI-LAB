@@ -15,12 +15,14 @@ import matplotlib.pyplot as plt
 from utils import ucs, gbfs, astar, haversine_km, load_openflights
 
 ROOT = Path(__file__).resolve().parent.parent      # the AI course folder
-DATA = ROOT / "all_datasets"
+DATA = ROOT / "AI-lab-1" / "assets"
 RESULTS = ROOT / "results" / "lab02"
 RESULTS.mkdir(parents=True, exist_ok=True)
 
+print(DATA)
+
 _, _, coords, graph, _ = load_openflights(DATA / "lab01-03_airports.csv", DATA / "lab01-03_routes.csv")
-queries = pd.read_csv("utils/search_queries.csv").head(3)
+queries = pd.read_csv("assets/search_queries.csv").head(3)
 print(queries)
 
 
