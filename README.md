@@ -9,7 +9,7 @@
 # MacOS, activation
 source .venv/bin/activate
 
-# Reults: (.venv)
+# Result: (.venv)
 
 # Deactivate
 deactivate
