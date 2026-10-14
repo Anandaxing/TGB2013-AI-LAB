@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 
 from utils import ucs, gbfs, astar, haversine_km, load_openflights
 
-ROOT = Path(__file__).resolve().parent.parent      # the AI course folder
-DATA = ROOT / "AI-lab-1" / "assets"
+ROOT = Path(__file__).resolve().parent      # the AI course folder
+DATA = ROOT / "assets"
 RESULTS = ROOT / "results" / "lab02"
 RESULTS.mkdir(parents=True, exist_ok=True)
 
