@@ -53,6 +53,16 @@ lab02_informed_search.py
 lab03_search_engineering.py
 ```
 
+## 4. Wednesday 21 October 2 026
+
+### 4.1 Added lab04 main program and datasets
+
+```bash
+# Added new files
+lab04_fuzzy_anfis.py
+assets/lab04-AirQuality.csv
+```
+
 --- 
 
 _Universiti Teknologi PETRONAS 2026_
