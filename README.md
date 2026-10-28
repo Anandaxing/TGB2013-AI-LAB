@@ -53,7 +53,7 @@ lab02_informed_search.py
 lab03_search_engineering.py
 ```
 
-## 4. Wednesday 21 October 2 026
+## 4. Wednesday 21 October 2026
 
 ### 4.1 Added lab04 main program and datasets
 
@@ -61,6 +61,16 @@ lab03_search_engineering.py
 # Added new files
 lab04_fuzzy_anfis.py
 assets/lab04-AirQuality.csv
+```
+
+## 5. Wednesday 28 October 2026
+
+### 5.1. Added lab05 main program and datasets
+
+```bash
+# Added new files
+lab05_robotics_sensor_control.py
+assets/lab05-sensor_readings_24.csv
 ```
 
 --- 
