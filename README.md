@@ -75,4 +75,16 @@ assets/lab05-sensor_readings_24.csv
 
 --- 
 
+## 6. Wednesday 4 November 2026
+
+### 6.1. Added lab06 main program and datasets
+
+```bash
+# Added new files
+lab06_handwriting_ocr_worked_.py
+assets/lab06-ocr-handwritten-prescription.zip
+```
+
+--- 
+
 _Universiti Teknologi PETRONAS 2026_
