@@ -87,4 +87,16 @@ assets/lab06-ocr-handwritten-prescription.zip
 
 --- 
 
+## 7. Wednesday 11 November 2026
+
+### 7.1. Added lab07 main program and datasets
+
+```bash
+# Added new files
+lab07_airline_sentiment.py
+assets/lab07-Tweets.csv
+```
+
+---
+
 _Universiti Teknologi PETRONAS 2026_
