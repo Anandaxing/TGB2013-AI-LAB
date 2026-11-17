@@ -99,4 +99,20 @@ assets/lab07-Tweets.csv
 
 ---
 
+## 8. Tuesday 17 November 2026
+
+### 8.1. Created a folder Assignment_Reasoning_Semantic_NLP and uploaded the assignment inside the folder
+
+```bash
+# Created a new folder
+Assignment_Reasoning_Semantic_NLP/
+
+# Uploaded assignment inside the folder
+AI_Assignment_Ananda Adiputra.pdf
+semantic_network.png
+```
+
+
+---
+
 _Universiti Teknologi PETRONAS 2026_
