@@ -112,6 +112,17 @@ AI_Assignment_Ananda Adiputra.pdf
 semantic_network.png
 ```
 
+---
+
+## 9. Wednesday 18 November 2026
+
+### 9.1. Added code for lab08 and its datasets
+
+```bash
+# Added new files
+lab08_genetic_algorithm_regression.py
+assets/lab08-insurance.csv
+```
 
 ---
 
