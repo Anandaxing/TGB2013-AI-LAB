@@ -126,4 +126,15 @@ assets/lab08-insurance.csv
 
 ---
 
+## 10. Sunday 22 November 2026
+
+### 10.1. Final Assignment Submission: Genetic Algorithm
+
+```bash
+# Added new pdf and python source code
+GA Assignment/Genetic_Algorithm_Assignment_Ananda_Adiputra.pdf
+GA Assignment/main.py
+```
+---
+
 _Universiti Teknologi PETRONAS 2026_
